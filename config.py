@@ -22,6 +22,7 @@ class Config:
 class ProdConfig(Config):
     """Production configuration class that inherits from the main configurations class"""
     SQLALCHEMY_DATABASE_URI='postgresql+psycopg2://moringa:123@localhost/pitchy'
+    SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
     
 
 class DevConfig(Config):
