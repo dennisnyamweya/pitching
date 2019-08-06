@@ -1,6 +1,6 @@
 # Pitch App
 #### An application that will help one utilize one minute to deliver their ideas. , 29th July 2019
-#### By **{List of contributors}**
+#### By **Dennis Makori Nyamweya**
 ## Description
  An application that will help users to pitch their ideas within a span of one minute in an organised manner.
 ## Setup/Installation Requirements
