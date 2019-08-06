@@ -17,7 +17,7 @@ There are no known bugs but contact me via email if you do see one.
 * Heroku
 ## BDD
 ### Business Logic
-An application that will help them list and preview news articles from various sources.A user would see various pitches sources on the homepage of the application and select a news source and see all news articles from the selected news source .
+An application that will help one pitch ideas in a span of one minute.A user would see various pitches sources on the homepage of the application and select a pitch and see all news pitches and even vote on the pitches.
 ## User Interface Logic
 The application has  two models, one for the news source and one for the news article.The application on clicking to read news one sees the news source.
 ## Support and contact details
