@@ -15,13 +15,9 @@ class Config:
     MAIL_USERNAME = os.environ.get("MAIL_USERNAME")
     MAIL_PASSWORD = os.environ.get("MAIL_PASSWORD")
 
-
-
-
-
 class ProdConfig(Config):
     """Production configuration class that inherits from the main configurations class"""
-   SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
+    SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
     
 
 class DevConfig(Config):
