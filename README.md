@@ -1,4 +1,4 @@
-# News Highlight
+# Pitch App
 #### An application that will help them list and preview news articles from various sources. , 29th July 2019
 #### By **{List of contributors}**
 ## Description
