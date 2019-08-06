@@ -1,10 +1,10 @@
 # Pitch App
-#### An application that will help them list and preview news articles from various sources. , 29th July 2019
+#### An application that will help one utilize one minute to deliver their ideas. , 29th July 2019
 #### By **{List of contributors}**
 ## Description
  An application that will help users to pitch their ideas within a span of one minute in an organised manner.
 ## Setup/Installation Requirements
-* git clone 
+* git clone https://github.com/dennisnyamweya/pitching.git
 * install python
 * cd Minute-Pitch
 * run python3.6 start.sh
