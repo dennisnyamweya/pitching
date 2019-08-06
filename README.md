@@ -19,7 +19,7 @@ There are no known bugs but contact me via email if you do see one.
 ### Business Logic
 An application that will help one pitch ideas in a span of one minute.A user would see various pitches sources on the homepage of the application and select a pitch and see all news pitches and even vote on the pitches.
 ## User Interface Logic
-The application has  two models, one for the news source and one for the news article.The application on clicking to read news one sees the news source.
+The application has  several models, one for the user,pitch,pitchcategory,votes and  the other for comments.The application on clicking to read new p,itches.
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns contact me or make a contribution to the code.You can reach me via my email denisnyamweya813@gmail.com
 ### License
