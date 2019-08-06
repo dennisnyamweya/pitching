@@ -4,9 +4,9 @@
 ## Description
  An application that will help users to pitch their ideas within a span of one minute in an organised manner.
 ## Setup/Installation Requirements
-* git clone https://github.com/dennisnyamweya/News-Highlights.git
+* git clone 
 * install python
-* cd News-highlights
+* cd Minute-Pitch
 * run python3.6 start.sh
 ## Known Bugs
 There are no known bugs but contact me via email if you do see one.
@@ -17,7 +17,7 @@ There are no known bugs but contact me via email if you do see one.
 * Heroku
 ## BDD
 ### Business Logic
-An application that will help them list and preview news articles from various sources.A user would see various news sources on the homepage of the application and select a news source and see all news articles from the selected news source .
+An application that will help them list and preview news articles from various sources.A user would see various pitches sources on the homepage of the application and select a news source and see all news articles from the selected news source .
 ## User Interface Logic
 The application has  two models, one for the news source and one for the news article.The application on clicking to read news one sees the news source.
 ## Support and contact details
